@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, I’m Himanshu.🤝<br>🔭 I’m a Software Engineer.<br>👯 I’m looking to upskill myself.<br>🌱 I’m currently learning Web Dev & DSA.<br>💬 Ask me about Movies & programming.<br>⚡ Fun fact: AI won’t replace software developers.<br>👯 I’m looking to collaborate on
+👋 Hello, I’m Himanshu.🤝<br>🔭 I’m a Software Engineer.<br>👯 I’m looking to upskill myself.<br>🌱 I’m currently learning Web Dev & DSA.<br>💬 Ask me about Movies & programming.<br>⚡ Fun fact: AI won’t replace software developers.<br>
 
 
 ## 🌐 Socials:
